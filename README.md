@@ -949,8 +949,6 @@ Notes are defined by appending an ```<aside>``` element to a slide as seen below
 
 Alternatively you can add your notes in a `data-notes` attribute on the slide. Like `<section data-notes="Something important"></section>`.
 
-When used locally, this feature requires that reveal.js [runs from a local web server](#full-setup).
-
 ```html
 <section>
 	<h2>Some Slide</h2>
